@@ -1,0 +1,3 @@
+[submodule "pyqsp"]
+	path = pyqsp
+	url = https://github.com/ichuang/pyqsp.git
