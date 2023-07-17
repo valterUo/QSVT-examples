@@ -6,8 +6,12 @@ The code is Pennylane implementation of the solution presented in repository [Qu
 
 ## Quantum eigenvalue estimation by QSVT
 
-The algorithm is inspired by the paper [A Grand Unification of Quantum Algorithms](https://arxiv.org/abs/2105.02859). The submodule `pyqsp` (Python Quantum Signal Processing) package is used to calculate the phase sift angels.
+The algorithm is inspired by the paper [A Grand Unification of Quantum Algorithms](https://arxiv.org/abs/2105.02859). The submodule `pyqsp` (Python Quantum Signal Processing) [package](https://github.com/ichuang/pyqsp) is used to calculate the phase sift angles.
 
-## Other examples
+## Other examples: TODO
 
-TODO
+- Matrix inverse
+- Hamiltonian simulation
+- Phase estimation
+- Quantum machine learning applications
+- Diagrammatic view to QSVT?
